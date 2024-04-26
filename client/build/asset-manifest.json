@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7c0e057a.css",
+    "main.js": "/static/js/main.4c746752.js",
+    "static/js/787.65afb37a.chunk.js": "/static/js/787.65afb37a.chunk.js",
+    "static/media/jeevikalogo.gif": "/static/media/jeevikalogo.f1b453a70fa78f43e2e3.gif",
+    "static/media/askDidiLogo.jpeg": "/static/media/askDidiLogo.dc9fae18b857209ea1f6.jpeg",
+    "static/media/bot-icon.svg": "/static/media/bot-icon.96bb2af7b6d9f139297f5360dd1f1740.svg",
+    "static/media/unclickable-send-icon.svg": "/static/media/unclickable-send-icon.97e67fa3d8e7a3b01e3fea1d6799ecf6.svg",
+    "static/media/send-icon.svg": "/static/media/send-icon.189abf85442d731d21123eb3b38e5cde.svg",
+    "static/media/users-icon.svg": "/static/media/users-icon.5c23f5512b52c98b7b0787d01036f988.svg",
+    "index.html": "/index.html",
+    "static/media/mic-icon.svg": "/static/media/mic-icon.4f75cc30a88f2a5207efd74868ec21bb.svg",
+    "static/media/active-speaker-icon.svg": "/static/media/active-speaker-icon.3d868a79bb714619c3d38ab9e4546921.svg",
+    "static/media/speaker-icon.svg": "/static/media/speaker-icon.276fe5b0edc1721647b221d6b1dccc85.svg",
+    "main.7c0e057a.css.map": "/static/css/main.7c0e057a.css.map",
+    "main.4c746752.js.map": "/static/js/main.4c746752.js.map",
+    "787.65afb37a.chunk.js.map": "/static/js/787.65afb37a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c0e057a.css",
+    "static/js/main.4c746752.js"
+  ]
+}
